@@ -1,5 +1,5 @@
 *   👋 Hi, I’m a software engineer
-*   🧠 Currently learning React.js, Bootstrap and Firebase while working on React projects.
+*   🧠 Currently learning React.js, Tailwind CSS and Firebase while working on React projects.
 *   🤝 I'm open to collaborating on interesting projects as a developer
 
 
