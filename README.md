@@ -1,9 +1,9 @@
 *   👋 Hi, I’m a software engineer
-*   🧠 Currently learning React.js, Tailwind CSS and Firebase while working on React projects.
+*   🧠 Currently learning MERN Stack.
 *   🤝 I'm open to collaborating on interesting projects as a developer
 
 
-## Tech Stack
+# Tech Stack
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -25,6 +25,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  </a>
 </p>
  
 </p>
@@ -32,5 +36,5 @@
 ## Socials
 <p align="left"> 
   <a href="https://www.github.com/ameynahfr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/aminah-s-0738041b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/ameynahfr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
