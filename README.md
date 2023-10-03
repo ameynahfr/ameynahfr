@@ -24,13 +24,20 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="bootstrap" width="40" height="40"/> 
   </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+      <img src="https://nodejs.org/static/images/logo.svg" alt="node.js" width="40" height="40"/> 
   </a>
 </p>
- 
+
+<p>
+  <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="40" height="40" alt="MongoDB" />
+  </a>
+</p>
+
 </p>
 
 ## Socials
