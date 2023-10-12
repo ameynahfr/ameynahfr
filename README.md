@@ -1,5 +1,5 @@
 *   👋 Hi, I’m a software engineer
-*   🧠 Currently learning MERN Stack.
+*   🧠 Currently working on MERN Stack Projects.
 *   🤝 I'm open to collaborating on interesting projects as a developer
 
 
