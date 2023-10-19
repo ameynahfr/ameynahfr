@@ -34,7 +34,7 @@
 
 <p>
   <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/648/271/png-transparent-mongodb-document-oriented-database-open-database-connectivity-apache-cassandra-mongodb-leaf-text-logo.png" width="80" height="40" alt="MongoDB" />
+    <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="80" height="40" alt="MongoDB" />
   </a>
 </p>
 
